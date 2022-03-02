@@ -1,0 +1,58 @@
+body{
+    background-image: url(gambar/d66bab6e5e6053a6a391fceb0b9ea584.jpg);
+}
+
+.jumbotron img{
+    width: 200px;
+    border: 5px solid #666;
+}
+
+.container{
+    width: 60%;
+    margin: 15px auto;
+    display: grid;
+    grid-template-columns: 300px 25% 200px;
+    grid-template-rows: 100px;
+}
+
+.col-sm-6{
+    margin-top: 100px;
+}
+
+
+.ketiga{
+    margin-top: 140px;
+}
+
+.keempat{
+    margin-top: -150px;
+}
+
+.tentang hr{
+    width: 250px;
+    border-top: 4px solid #666;
+    margin-left: 250px;
+    
+}
+
+.col-sm-12 h2{
+    margin-left: 330px;
+    
+}
+
+.jumbroton {
+    width: 20%;
+    margin: 15px auto;
+    display: flex;
+    
+    
+}
+
+.tulisan h1{
+    margin-top: 60px;
+}
+
+.tentang{
+    margin-bottom: 100px;
+}
+
